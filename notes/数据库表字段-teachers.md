@@ -8,7 +8,7 @@
 | 2 | teacher_id | varchar | 255 | 是 | 否 | 未提供 |
 | 3 | password | varchar | 255 | 是 | 否 | 未提供 |
 | 4 | name | varchar | 255 | 是 | 否 | 未提供 |
-| 5 | gender | enum | — | 是 | 否 | 未提供 |
+| 5 | gender | enum | — | 是 | 否 | 取值：male/female |
 | 6 | title | int | — | 是 | 否 | 未提供 |
 | 7 | course_count | int | — | 是 | 否 | 未提供 |
 | 8 | class_count | int | — | 是 | 否 | 未提供 |

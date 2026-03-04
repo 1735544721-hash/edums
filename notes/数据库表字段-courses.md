@@ -9,5 +9,5 @@
 | 3 | course_name | varchar | 255 | 是 | 否 | 未提供 |
 | 4 | course_code | varchar | 255 | 是 | 否 | 未提供 |
 | 5 | class_hours | int | — | 否 | 否 | 未提供 |
-| 6 | class_type | enum | — | 否 | 否 | 未提供 |
-| 7 | course_level | enum | — | 否 | 否 | 未提供 |
+| 6 | class_type | enum | — | 否 | 否 | 取值：Undergraduate/Associate/Adult Education/Graduate |
+| 7 | course_level | enum | — | 否 | 否 | 取值：College/Teacher |
